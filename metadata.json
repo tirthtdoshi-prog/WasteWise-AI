@@ -1,0 +1,6 @@
+{
+  "name": "WasteWise AI",
+  "description": "Smart Waste Classification System using AI and Computer Vision to identify plastic, paper, metal, glass, and organic waste from uploaded images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
